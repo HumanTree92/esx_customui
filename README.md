@@ -2,7 +2,6 @@
 Custom UI for ESX Servers
 
 # Screenshot Preview
-![screenshot](https://i.imgur.com/d3JWQ64.png)
 
 # Requirements
 * [es_extended](https://github.com/ESX-Org/es_extended)
