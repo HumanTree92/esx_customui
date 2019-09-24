@@ -16,6 +16,9 @@ Custom UI for ESX Servers
 4) Add `start esx_customui` to your server.cfg
 5) Wish you had the UI :)
 
+# Support
+* Support will not be Given for this. Any people who Message me on Discord/FiveM/Email/Etc will be BLOCKED!!
+
 # Other:
 If you like this please check out some of my other stuff like
 * [esx_advancedgarage](https://github.com/HumanTree92/esx_advancedgarage)
