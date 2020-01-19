@@ -4,10 +4,12 @@ Custom UI for ESX Servers
 # Screenshot Preview
 
 # Requirements
-* [es_extended](https://github.com/ESX-Org/es_extended)
-* [esx_basicneeds](https://github.com/ESX-Org/esx_basicneeds)
-* [esx_status](https://github.com/ESX-Org/esx_status)
-* OPTIONAL [esx_optionalneeds](https://github.com/ESX-Org/esx_optionalneeds)
+* Required:
+  * [es_extended](https://github.com/ESX-Org/es_extended)
+  * [esx_basicneeds](https://github.com/ESX-Org/esx_basicneeds)
+  * [esx_status](https://github.com/ESX-Org/esx_status)
+* Optional:
+  * [esx_optionalneeds](https://github.com/ESX-Org/esx_optionalneeds)
 
 # Download & Installation
 1) Download the .zip.
@@ -51,7 +53,7 @@ If you like this please check out some of my other stuff like
 ### License
 esx_customui - Custom UI for ESX Servers.
 
-Copyright (C) 2011-2019 Velociti Entertainment
+Copyright (C) 2011-2020 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
