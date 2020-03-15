@@ -1,7 +1,8 @@
 # About esx_customui
-Custom UI for ESX Servers
+Custom UI for ESX
 
-# Screenshot Preview
+# Helpfull Info:
+* THIS SCRIPT DOES NOT HAVE A PLANNED RELEASE DATE
 
 # Requirements
 * Required:
@@ -16,16 +17,14 @@ Custom UI for ESX Servers
 2) Extract the .zip or Open the .zip.
 3) Place `esx_customui` in your ESX Directory
 4) Add `start esx_customui` to your server.cfg
-5) Wish you had the UI :)
-
-# Support
-* Support will not be Given for this. Any people who Message me on Discord/FiveM/Email/Etc will be BLOCKED!!
 
 # Other Scripts:
 If you like this please check out some of my other stuff like
 * [esx_advancedgarage](https://github.com/HumanTree92/esx_advancedgarage)
 * [esx_advancedvehicleshop](https://github.com/HumanTree92/esx_advancedvehicleshop)
 * [esx_advancedhospital](https://github.com/HumanTree92/esx_advancedhospital)
+* [esx_advancedweaponshop](https://github.com/HumanTree92/esx_advancedweaponshop)
+* [esx_advancedfuel](https://github.com/HumanTree92/esx_advancedfuel)
 * [esx_extraitems](https://github.com/HumanTree92/esx_extraitems)
 * [esx_licenseshop](https://github.com/HumanTree92/esx_licenseshop)
 * [esx_vehiclespawner](https://github.com/HumanTree92/esx_vehiclespawner)
@@ -56,7 +55,7 @@ Scripts that will no longer be Maintained.
 
 # Legal
 ### License
-esx_customui - Custom UI for ESX Servers.
+esx_customui - Custom UI for ESX
 
 Copyright (C) 2011-2020 Velociti Entertainment
 
